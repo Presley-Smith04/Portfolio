@@ -3,9 +3,10 @@
   export let description;
   export let image;
   export let slug;
+  export let link;
 </script>
 
-<a href={`/projects/${slug}`} 
+<a href={link}
    class="block transform transition duration-500 hover:-translate-y-3 hover:rotate-2 hover:scale-105 hover:shadow-[0_8px_30px_rgba(255,192,203,0.6)]">
   <div class="bg-white text-black rounded-2xl overflow-hidden shadow-lg h-full flex flex-col 
               transition-all duration-500 hover:bg-pink-200 hover:text-rose-800 hover:border-4 hover:border-amber-400">
