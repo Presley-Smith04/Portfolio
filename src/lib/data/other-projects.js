@@ -1,4 +1,11 @@
 export const OtherProjects = [
+    {
+    title: "Alternative Controller",
+    description: "Arduino IDE, Processing, Physical Computing, Alternate Interfaces",
+    image: "assets/over.png", 
+    slug: "alt-controller",
+    link: "https://presleysmith2.wordpress.com/project-2-alternative-controller/"
+  },
   {
     title: "Halloween Themed Audio Visualizer",
     description: "Web App Development, JavaScript, HTML, CSS, Audio Engineering",

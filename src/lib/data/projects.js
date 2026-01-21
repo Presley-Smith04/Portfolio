@@ -1,10 +1,10 @@
 export const projects = [
   {
-    title: "Alternative Controller",
-    description: "Arduino IDE, Processing, Physical Computing, Alternate Interfaces",
-    image: "assets/over.png", 
-    slug: "alt-controller",
-    link: "https://presleysmith2.wordpress.com/project-2-alternative-controller/"
+    title: "Echoes RIT VIP",
+    description: "JavaScript, Tailwind CSS, Node.Js, Svelte, UI/UX, Web Development",
+    image: "assets/EchoesBanner.png", 
+    slug: "Echoes-vip",
+    link: "https://https://www.echoes-vip.org"
   },
   {
     title: "BUCK OFF!",
