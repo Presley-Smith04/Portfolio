@@ -4,7 +4,7 @@ export const projects = [
     description: "JavaScript, Tailwind CSS, Node.Js, Svelte, UI/UX, Web Development",
     image: "assets/EchoesBanner.png", 
     slug: "Echoes-vip",
-    link: "https://https://www.echoes-vip.org"
+    link: "www.echoes-vip.org"
   },
   {
     title: "BUCK OFF!",
@@ -18,6 +18,6 @@ export const projects = [
     description: "Unity C#, Arduino IDE, UI/UX, FL Studio, Game Development, Submitted to Alt Ctrl GDC",
     image: "assets/Amped.png",
     slug: "amped",
-    link: "https://framer.com/projects/AmpedWebsite--uqS66pBlBI3AzzP1Ezfd-e1Ix6?duplicate=starter-template-empty-site&node=tLfsyn2EV"
+    link: "https://amped.framer.website"
   },
 ];
