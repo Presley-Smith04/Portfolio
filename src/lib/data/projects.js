@@ -4,7 +4,7 @@ export const projects = [
     description: "JavaScript, Tailwind CSS, Node.Js, Svelte, UI/UX, Web Development",
     image: "assets/EchoesBanner.png", 
     slug: "Echoes-vip",
-    link: "www.echoes-vip.org"
+    link: "https://www.echoes-vip.org"
   },
   {
     title: "BUCK OFF!",

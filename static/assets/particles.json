@@ -4,7 +4,7 @@
       "value": 70
     },
     "color": {
-      "value": "#ffffff"
+      "value": "#FFFFFF"
     },
     "shape": {
       "type": "circle"
@@ -13,7 +13,7 @@
       "value": 0.3
     },
     "size": {
-      "value": 3
+      "value": 4
     },
     "line_linked": {
       "enable": true,
