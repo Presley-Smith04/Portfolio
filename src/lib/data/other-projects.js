@@ -7,6 +7,13 @@ export const OtherProjects = [
     link: "https://presleysmith2.wordpress.com/project-2-alternative-controller/"
   },
   {
+    title: "Affirmations Generator",
+    description: "Python, Flask, JavaScript, DOM Manipulation, HTML, CSS",
+    image: "assets/affirm.png",
+    slig: "affirmations",
+    link: "https://affirmations-k8g9.onrender.com"
+  },
+  {
     title: "Halloween Themed Audio Visualizer",
     description: "Web App Development, JavaScript, HTML, CSS, Audio Engineering",
     image: "assets/audio.png",     // removed /Portfolio
