@@ -7,11 +7,11 @@ export const projects = [
     link: "https://www.echoes-vip.org"
   },
   {
-    title: "BUCK OFF!",
-    description: "BrickHack 2025, Game Development, UI/UX, C#, Unity, Collaboration",
-    image: "assets/buck.jpg",
-    slug: "brickhack-25",
-    link: "https://devpost.com/software/buck-off"
+    title: "Ivy: WiCHacks '26 Best Hardware Winner",
+    description: "JavaScript, Node.js, C++, Discord.js, Physical Computing, Hackathon",
+    image: "assets/ivy-face.png",
+    slug: "wichack-26",
+    link: "https://devpost.com/software/ivy-3cibr0?_gl=1*pajgpz*_gcl_au*MTQ0MzQ0MTQzOS4xNzY1NDA2NzAz*_ga*MTQzMTk4MjcwNy4xNzY1NDA2NzAz*_ga_0YHJK3Y10M*czE3NzI2NTI1MDEkbzE4JGcxJHQxNzcyNjUyNTA1JGo1NiRsMCRoMA.."
   },
   {
     title: "Amped",
