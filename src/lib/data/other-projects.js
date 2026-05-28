@@ -11,7 +11,7 @@ export const OtherProjects = [
 		description: 'Python, Flask, JavaScript, DOM Manipulation, HTML, CSS',
 		image: 'assets/affirm.png',
 		slig: 'affirmations',
-		link: 'https://affirmations-k8g9.onrender.com'
+		link: '/projects/affirmations'
 	},
 	{
 		title: 'BUCK OFF!',
