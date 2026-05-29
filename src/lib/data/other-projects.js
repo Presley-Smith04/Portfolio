@@ -7,6 +7,13 @@ export const OtherProjects = [
 		link: 'https://presleysmith2.wordpress.com/project-2-alternative-controller/'
 	},
 	{
+		title: 'Arc',
+		description: 'TouchDesigner, MediaPipe, Resolume Arena, Projection Mapping, Motion Tracking, Generative Visuals, Interactive Media, Creative Technology',
+		image: 'assets/arc-img.jpg',
+		slug: 'arc',
+		link: '/projects/arc'
+	},
+	{
 		title: 'Affirmations Generator',
 		description: 'Python, Flask, JavaScript, DOM Manipulation, HTML, CSS',
 		image: 'assets/affirm.png',
@@ -18,7 +25,7 @@ export const OtherProjects = [
 		description: 'BrickHack 2025, Game Development, UI/UX, C#, Unity, Collaboration',
 		image: 'assets/buck.jpg',
 		slug: 'brickhack-25',
-		link: 'https://devpost.com/software/buck-off'
+		link: '/projects/buck-off'
 	},
 	{
 		title: 'Halloween Themed Audio Visualizer',
